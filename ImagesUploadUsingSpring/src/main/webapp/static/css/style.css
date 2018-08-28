@@ -1,0 +1,26 @@
+body{
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #fbfbfb;
+    display: flex;
+    color: white;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    align-items: center;
+    padding: 2em;
+    color: #433758;
+    border-radius: 4px;
+}
+
+main img{
+    max-width: 500px;
+}
